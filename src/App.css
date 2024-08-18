@@ -1,0 +1,65 @@
+.header{
+  background-image: url("./pp.png"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 700px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size:cover; /* Resize the background image to cover the entire container */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-right: 800px;
+}
+.Skills{
+  margin-top: 50px;
+  padding: 20px;
+  background-color: rgb(111, 86, 86);
+  color: aliceblue;
+}
+ol{
+  list-style: none;
+  line-height: 50px;
+}
+.FOCUS{
+  margin-top: 50px;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+
+.Port{
+  width: 250px;
+  height: 250px;
+  background-color: #808080;
+  border-radius: 15px;
+  font-size: xx-large;
+  line-height: 8;
+}
+
+.card{
+  height: 300px;
+}
+
+.Footer{
+  background-color: black;
+  display: flex;
+  height: 150px;
+}
+.Footer .btn{
+  border: #cccccc 1px solid;
+  margin-top: 40px;
+}
+.Footer p ,.icons{
+color: #cccccc;
+margin-top: 40px;
+}

@@ -1,0 +1,30 @@
+1- React --> JS Library --> Facebook - 2013
+
+2- SPA --> Virtual Dom 
+
+3- SPA --> No Reload 
+
+4- npx create-react-app appname 
+
+5- npx vs npm 
+
+6- jsx  --> Javascript XML -- UI 
+    class --> className
+    each tag --> close 
+    style ={{"property": "value"}}
+    img src={}
+____________________________________________
+
+--> Reusable Components: 
+        1- Class Components --> < v-16.8
+                1- life cycle method 
+                    constructor 
+                    render
+                    componentDidMount
+                    componentDidUpdate
+                    componentWillUnMount
+                2- state - setState --> Local variables 
+                3- props --> share data between components
+
+        2- Function Components > 16.8
+     
